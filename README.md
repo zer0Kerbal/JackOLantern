@@ -1,7 +1,7 @@
-<!-- Readme.md v1.1.1
+<!-- Readme.md v1.1.1.1
 Jack-O-Lantern (JOL)
 created: 23 Sep 19
-updated: 31 Oct 19 -->
+updated: 31 May 2021 -->
 
 <!-- Download on SpaceDock or Github or Curseforge. Also available on CKAN. -->
 
@@ -16,8 +16,8 @@ Internally supports TweakScale
 
 ![Jack-O-Lantern](https://i.imgur.com/6Dvavcc.jpg)
 ![Jack-O-Lantern](https://i.imgur.com/gWlegrN.jpg)
-
+[Original Thread](https://forum.kerbalspaceprogram.com/index.php?/topic/88595-*)
 <!-- 
-CC BY-NC-SA-4.0
+GPLv2
 zer0Kerbal 
 -->
