@@ -10,7 +10,7 @@ Jack-O'-Lantern by Porkjet. Jack-O'Lantern themed probe cores in three sizes. Al
 
 ![Mod Version](https://img.shields.io/github/v/release/zer0Kerbal/Jack-O-Lantern?include_prereleases) 
 ![KSP 1.7.x](https://img.shields.io/badge/KSP%20version-1.7.x-66ccff.svg?style=flat-square) 
-![CKAN listed](https://img.shields.io/badge/CKAN-Indexed-brightgreen.svg) ![CC 4.0 BY-NC-SA](https://img.shields.io/badge/license-CC--4.0--BY--SA-lightgrey)
+![CKAN listed](https://img.shields.io/badge/CKAN-Indexed-brightgreen.svg) ![CC BY-NC 4.0](https://img.shields.io/badge/license-CC%20BY--SA%204.0-lightgrey)
 
 Internally supports TweakScale
 
@@ -18,6 +18,6 @@ Internally supports TweakScale
 ![Jack-O-Lantern](https://i.imgur.com/gWlegrN.jpg)
 [Original Thread](https://forum.kerbalspaceprogram.com/index.php?/topic/88595-*)
 <!-- 
-GPLv2
+CC BY-NC-SA 4.0
 zer0Kerbal 
 -->
