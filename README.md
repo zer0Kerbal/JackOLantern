@@ -28,10 +28,10 @@ Jack-O'-Lantern by Porkjet. Jack-O'Lantern themed probe cores in five sizes. All
 
 ## Features 
 
-This mod adds two parts
-- Part: command/parachute
-- Part: heatshield/cargobay
-- RemoteTech configs are included.
+This parts pack adds five different sized Jack-O’-Lantern themed probe cores
+
+- Five different sizes with all the modcons
+- TweakScale configs are included.
 
 ***
 
@@ -196,8 +196,8 @@ This is a human-readable summary of (and not a substitute for) the [license](htt
 
 <!--- release links -->
 [CKAN:img]: https://i.postimg.cc/x8XSVg4R/sj507JC.png "CKAN"
-[CKAN:url]: https://forum.kerbalspaceprogram.com/index.php?/topic/154922-* "CKAN"  
-[CKAN:shld]: https://img.shields.io/badge/CKAN-JackOLantern-white.svg?style=plastic&labelColor=E32811 "CKAN"  
+[CKAN:url]: https://forum.kerbalspaceprogram.com/index.php?/topic/154922-* "CKAN"
+[CKAN:shld]: https://img.shields.io/badge/CKAN-JackOLantern-white.svg?style=plastic&labelColor=E32811 "CKAN"
 
 
 <!--- original mod -->
@@ -214,14 +214,14 @@ This is a human-readable summary of (and not a substitute for) the [license](htt
 
 
 <!--- AVC -->
-[AVC:shld]:  https://img.shields.io/badge/KSP-AVC--supported-00C961.svg?labelColor=black&style=plastic  
+[AVC:shld]:  https://img.shields.io/badge/KSP-AVC--supported-00C961.svg?labelColor=black&style=plastic
 [AVCVLD:shld]: https://github.com/zer0Kerbal/OhScrap/workflows/Validate%20AVC%20.version%20files/badge.svg?labelColor=black&style=plastic "AVC-Valid"
 
 
 <!--- CKAN -->
 [CKAN:img]: https://i.postimg.cc/x8XSVg4R/sj507JC.png "CKAN"
 [CKAN:url]: http://forum.kerbalspaceprogram.com/index.php?/topic/197082-* "CKAN"
-[CKAN:shd]: https://img.shields.io/badge/CKAN-JackOLantern-white.svg?labelColor=E32811&style=plastic "CKAN" 
+[CKAN:shd]: https://img.shields.io/badge/CKAN-JackOLantern-white.svg?labelColor=E32811&style=plastic "CKAN"
 
 <!--- release links -->
 [CURSFG:url]: https://www.curseforge.com/kerbal/ksp-mods/JackOLantern "Curseforge"
@@ -230,7 +230,7 @@ This is a human-readable summary of (and not a substitute for) the [license](htt
 
 [GITHUB:url]: https://github.com/zer0Kerbal/JackOLantern/ "GitHub"
 [GITHUB:img]: https://i.imgur.com/RE4Ppr9.png "GitHub"
-[GITHUB:shld]: https://img.shields.io/badge/Github-Listed-white.svg?labelColor=181717&style=plastic&logo=github "GitHub"  
+[GITHUB:shld]: https://img.shields.io/badge/Github-Listed-white.svg?labelColor=181717&style=plastic&logo=github "GitHub"
 
 [SPCDCK:url]: http://spacedock.info/mod/2261 "SpaceDock"
 [SPCDCK:img]: https://i.imgur.com/m0a7tn2.png "SpaceDock"
@@ -255,9 +255,9 @@ This is a human-readable summary of (and not a substitute for) the [license](htt
 [LINK:zer0Kerbal]: https://forum.kerbalspaceprogram.com/index.php?/profile/190933-zer0kerbal/ "zer0Kerbal"
 
 <!-- footnotes -->
-  [^1]: ***may*** work on other versions (YMMV)
-  [^2]: *Be Kind: Lithobrake, not jakebrake! Keep your Module Manager up to date!*
-  [^3]: this isn't a mod. ;P
+[^1]: ***may*** work on other versions (YMMV)
+[^2]: *Be Kind: Lithobrake, not jakebrake! Keep your Module Manager up to date!*
+[^3]: this isn't a mod. ;P
 
 <!--- misc logos -->
 [IMG:flg:0]: https://raw.githubusercontent.com/zer0Kerbal/JackOLantern/master/img/JackOLantern0_icon.png "JACK was here"
@@ -266,7 +266,7 @@ This is a human-readable summary of (and not a substitute for) the [license](htt
 [IMG:hero:1]: https://i.imgur.com/gWlegrN.jpg "Jack-O-Lantern Family"
 
 <!-- financial support -->
-[PAYPAL:img]: https://img.shields.io/badge/Buy%20me%20some%20-MonoPropellant-BADA55?style=for-the-badge&logo=paypal&labelColor=FFDD00 "PayPal"
+[PAYPAL:img]: https://img.shields.io/badge/Buy%20me%20some%20-LFO-BADA55?style=for-the-badge&logo=paypal&labelColor=FFDD00 "PayPal"
 [PAYPAL:url]: https://www.paypal.com/donate?hosted_button_id=R9ACWD7VREBCY "PayPal"
 
 [PATREON:img]: https://img.shields.io/badge/Patreon%20-Patreonize-FF424D?style=for-the-badge&logo=patreon "Patreon"
@@ -282,23 +282,23 @@ This is a human-readable summary of (and not a substitute for) the [license](htt
 https://paypal.me/zer0Kerbal?locale.x=en_US -->
 
 <!-- Localization -->
-[EN]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/Localization/img/American-flag-sm.png "American English"  
-[BR]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/Localization/img/Brazilian-flag-sm.png "Brasil"  
-[CN]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/Localization/img/Chinese-flag-sm.png "中文"   
-[DE]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/Localization/img/German-flag-sm.png "Deutsch"  
-[ES]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/Localization/img/Spanish-flag-sm.png "Español"  
-[FR]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/Localization/img/French-flag-sm.png "Français"  
-[IT]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/Localization/img/Italian-flag-sm.png "Italiano"  
-[JA]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/Localization/img/Japanese-flag-sm.png "日本語"  
-[KO]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/Localization/img/South-Korean-flag-sm.png "한국어"  
-[ME]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/Localization/img/Mexican-flag-sm.png "Mexicano"  
-[NL]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/Localization/img/Dutch-flag-sm.png "Dutch"  
-[NO]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/Localization/img/Norwegian-flag-sm.png "Norsk"  
-[PO]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/Localization/img/Polish-flag-sm.png "Polski"  
-[RU]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/Localization/img/Russian-flag-sm.png "Русский"  
-[SW]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/Localization/img/Swedish-flag-sm.png "Svenska"  
-[TW]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/Localization/img/Taiwanese-flag-sm.png "国语"  
-[HA]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/Localization/img/Hawaii-flag-sm.png "ʻŌlelo Pākē"  
+[EN]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/Localization/img/American-flag-sm.png "American English"
+[BR]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/Localization/img/Brazilian-flag-sm.png "Brasil"
+[CN]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/Localization/img/Chinese-flag-sm.png "中文"
+[DE]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/Localization/img/German-flag-sm.png "Deutsch"
+[ES]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/Localization/img/Spanish-flag-sm.png "Español"
+[FR]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/Localization/img/French-flag-sm.png "Français"
+[IT]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/Localization/img/Italian-flag-sm.png "Italiano"
+[JA]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/Localization/img/Japanese-flag-sm.png "日本語"
+[KO]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/Localization/img/South-Korean-flag-sm.png "한국어"
+[ME]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/Localization/img/Mexican-flag-sm.png "Mexicano"
+[NL]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/Localization/img/Dutch-flag-sm.png "Dutch"
+[NO]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/Localization/img/Norwegian-flag-sm.png "Norsk"
+[PO]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/Localization/img/Polish-flag-sm.png "Polski"
+[RU]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/Localization/img/Russian-flag-sm.png "Русский"
+[SW]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/Localization/img/Swedish-flag-sm.png "Svenska"
+[TW]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/Localization/img/Taiwanese-flag-sm.png "国语"
+[HA]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/Localization/img/Hawaii-flag-sm.png "ʻŌlelo Pākē"
 
 <!-- 
 CC BY-NC 4.0
