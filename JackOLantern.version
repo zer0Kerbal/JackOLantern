@@ -2,7 +2,7 @@
 	"NAME": "Jack-O'-Lantern (JACK)",
 	"URL": "https://raw.githubusercontent.com/zer0Kerbal/JackOLantern/master/JackOLantern.version",
 	"DOWNLOAD": "http://github.com/zer0Kerbal/JackOLantern/releases/latest",
-	"CHANGE_LOG_URL" : "https://raw.githubusercontent.com/zer0Kerbal/JackOLantern/master/JackOLantern.version",
+	"CHANGE_LOG_URL" : "https://raw.githubusercontent.com/zer0Kerbal/JackOLantern/master/Changelog.cfg",
 	"GITHUB" :
 	{
 		"USERNAME"		  : "zer0Kerbal",
