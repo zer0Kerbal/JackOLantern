@@ -10,9 +10,9 @@ updated: 14 Sep 2021 -->
 
 ##### Available on [CKAN][CKAN:url] as _`JackOLantern`._
 
-# Jack-O'-Lantern (JACK)
+# Jack-O'Lantern (JACK)
 
-Jack-O'-Lantern by Porkjet. Jack-O'Lantern themed probe cores in five sizes. All the modcons.
+Jack-O'Lantern by Porkjet. Jack-O'Lantern themed probe cores in five sizes. All the modcons.
 
 #### Adopted for curation by [@`zer0Kerbal`][LINK:zer0Kerbal], originally by [@`PorkJet`][LINK:porkjet]
 
@@ -28,7 +28,7 @@ Jack-O'-Lantern by Porkjet. Jack-O'Lantern themed probe cores in five sizes. All
 
 ## Features 
 
-This parts pack adds five different sized Jack-O’-Lantern themed probe cores
+This parts pack adds five different sized Jack-O’Lantern themed probe cores
 
 - Five different sizes with all the modcons
 - TweakScale configs are included.
