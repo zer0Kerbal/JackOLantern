@@ -174,4 +174,3 @@ crashlytics-build.properties
 /[Aa]ssets/[Ss]treamingAssets/aa/*
 graphics/Thumbs.db
 *.old
-json/code.json
