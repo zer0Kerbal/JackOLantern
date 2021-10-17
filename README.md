@@ -249,7 +249,6 @@ This is a human-readable summary of (and not a substitute for) the [license](htt
 [thread:kcl]: https://forum.kerbalspaceprogram.com/index.php?/topic/179207-* "Kerbal ChangeLog"
 [thread:twk]: https://forum.kerbalspaceprogram.com/index.php?/topic/179030-* "TweakScale"
 
-
 <!--- statics -->
 [LINK:porkjet]: https://forum.kerbalspaceprogram.com/index.php?/profile/92433-porkjet/ "PorkJet`"
 [LINK:zer0Kerbal]: https://forum.kerbalspaceprogram.com/index.php?/profile/190933-zer0kerbal/ "zer0Kerbal"
