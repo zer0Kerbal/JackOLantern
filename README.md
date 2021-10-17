@@ -3,7 +3,7 @@ JackOLantern (JACK)
 created: 23 Sep 19
 updated: 14 Sep 2021 -->
 
-[MODVERSION]: 1.4.1.0
+[MODVERSION]: 1.1.0.0
 [KSPVERSION]: 1.12.2
 
 ## Download on [Curseforge][CURSFG:url] or [Github][GITHUB:url] or [SpaceDock][SPCDCK:url]. 
