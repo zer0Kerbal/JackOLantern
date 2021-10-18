@@ -16,7 +16,7 @@ Unfortunately, I only speak English, and I maintain this mod for free. This mean
 Note: Even though you will appear to be editing the project's files, don't worry about making mistakes. Github will keep your changes separate from the main files until I have verified that they are OK to use. It is even possible for me to ask questions or request changes before your work is committed to the main files.
 
 ## Languages Supported by Kerbal Space Program as of 1.12.2
-- [ ]  [![American English][EN]][EN] [American English][EN] <en-us.cfg>  
+- [x]  [![American English][EN]][EN] [American English][EN] <en-us.cfg>  
 - [ ]  [![Brasil][BR]][BR] [Brazilian][BR] <pt-br.cfg>  
 - [ ]  [![中文][CN]][CN] [Chinese (中文)][CN] <zh-cn.cfg>  
 - [ ]  [![Deutsch][DE]][DE] [German (Deutsch)][DE]  
