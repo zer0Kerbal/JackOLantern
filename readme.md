@@ -128,6 +128,7 @@ This parts pack adds seven different sized Jack-O’Lantern themed probe cores
 ### Credits and Special Thanks 
 
 - [`@PorkJet`][LINK:porkjet] - Author and so much more
+- IBM Watson and translate.google.com for machine translations
 
 ### Legal Mumbo Jumbo (License _provenance_)
 
@@ -196,13 +197,10 @@ This is a human-readable summary of (and not a substitute for) the [license](htt
 
 [CODE:shld]: https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/JackOLantern/master/json/code.json
 
-<!--- original mod -->
-
 <!--- release links -->
 [CKAN:img]: https://i.postimg.cc/x8XSVg4R/sj507JC.png "CKAN"
 [CKAN:url]: https://forum.kerbalspaceprogram.com/index.php?/topic/154922-* "CKAN"
 [CKAN:shld]: https://img.shields.io/badge/CKAN-JackOLantern-white.svg?style=plastic&labelColor=E32811 "CKAN"
-
 
 <!--- original mod -->
 [MOD:orig:source]: https://www.curseforge.com/kerbal/ksp-mods/jack-o-lantern "CurseForge"
@@ -216,11 +214,9 @@ This is a human-readable summary of (and not a substitute for) the [license](htt
 [LICENSE:orig:url]:  https://creativecommons.org/licenses/by-nc/4.0/# "CC BY-NC 4.0-2"
 [LICENSE:orig:shld]: https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/JackOLantern/master/json/license.json "CC BY-NC 4.0-2"
 
-
 <!--- AVC -->
 [AVC:shld]:  https://img.shields.io/badge/KSP-AVC--supported-00C961.svg?labelColor=black&style=plastic
 [AVCVLD:shld]: https://github.com/zer0Kerbal/OhScrap/workflows/Validate%20AVC%20.version%20files/badge.svg?labelColor=black&style=plastic "AVC-Valid"
-
 
 <!--- CKAN -->
 [CKAN:img]: https://i.postimg.cc/x8XSVg4R/sj507JC.png "CKAN"
@@ -257,7 +253,7 @@ This is a human-readable summary of (and not a substitute for) the [license](htt
 [LINK:porkjet]: https://forum.kerbalspaceprogram.com/index.php?/profile/92433-porkjet/ "PorkJet`"
 [LINK:zer0Kerbal]: https://forum.kerbalspaceprogram.com/index.php?/profile/190933-zer0kerbal/ "zer0Kerbal"
 
-<!-- footnotes -->
+<!-- footnotes -->  
 [^1]: ***may*** work on other versions (YMMV)
 [^2]: *Be Kind: Lithobrake, not jakebrake! Keep your Module Manager up to date!*
 [^3]: this isn't a mod. ;P
@@ -280,9 +276,6 @@ This is a human-readable summary of (and not a substitute for) the [license](htt
 
 [BMCC:img]: https://img.shields.io/badge/Buy%20Me%20a%20-Snack!-FFDD00?style=for-the-badge&logo=buymeacoffee "Buy Me A Snack"
 [BMCC:url]: https://buymeacoffee.com/zer0Kerbal "Buy Me A Snack"
-
-<!-- https://www.paypalobjects.com/en_US/i/btn/btn_donate_LG.gif "PayPal"  
-https://paypal.me/zer0Kerbal?locale.x=en_US -->
 
 <!-- Localization -->
 [EN]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/Localization/img/American-flag-sm.png "American English"
