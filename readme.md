@@ -52,10 +52,10 @@ This parts pack adds seven different sized Jack-O’Lantern themed probe cores
 ### Localization _work in progress_
 
 > - [x]  ![][EN] English  
-> - [x]  ![][DE] German  
-> - [x]  ![][JA] Japanese 
-> - [x]  ![][RU] Russian  
-> - [x]  ![][ES] Spanish  
+> - [x]  ![][DE] German (Deutsch)  
+> - [x]  ![][JA] Japanese(日本語) 
+> - [x]  ![][RU] Russian (Русский)  
+> - [x]  ![][ES] Spanish (Español)  
 > - [ ]  ***your language here***
 >
 > HELP WANTED - See the [README in the Localization folder][LINK:local] for instructions for adding or improving translations for languages other than English. [GitHub][GitHub:url] push is the best way to contribute. *Additions and corrections solicited and welcome!* 
