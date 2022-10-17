@@ -10,6 +10,35 @@
 | spacedock  | (https://spacedock.info/mod/2261)                                 |
 | ckan       | JackOLantern                                                      |
 
+## Version 1.1.2.0-release `<It's the Great Pumpkin Charlie Kermin!>`
+
+* 15 Oct 2022
+* Released for Kerbal Space Program 1.12.3
+
+<b style="color:orange">zer0Kerbal wishes you a Happy and Safe Halloween!</b>
+
+### Updated 1.1.2.0
+
+* minor housekeeping and file maintenance  
+* patch dusting (mostly removing construction dust (comments))  
+* [TweakScale.cfg] update
+* closes #44 - Cannot find fx group of that name for decoupler
+
+### Documentation 1.1.2.0
+
+* readme
+* release notes
+
+### Status 1.1.2.0
+
+* Issues
+  * closes #46 - Jack-O'Lantern (JACK)1.1.2.0-release `<EDITION>`
+  * closes #47 - 1.0.99.0 Verify Legal Mumbo Jumbo
+  * closes #48 - 1.0.99.0 Update Documentation
+  * closes #49 - 1.0.99.0 Update Social Media
+
+---
+
 ## Version 1.1.1.0-release `<It's the Great Pumpkin Charlie Kermin!>`
 
 * 24 Oct 2021
@@ -30,7 +59,7 @@
 * Thumbnails
 * split ModuleLight into submodules
 
-### Localization
+### Localization 1.1.1.0
 
 * Added
   * German (Deutsch) (thank you IBM Watson/Google Translate)
@@ -38,18 +67,18 @@
   * Russian (Русский) (thank you IBM Watson/Google Translate)
   * Spanish (Español) (thank you IBM Watson/Google Translate)
 
-### Patch linting
+### Patch linting 1.1.1.0
 
 * minor housekeeping and file maintenance  
 * patch dusting (mostly removing construction dust (comments))  
 * [TweakScale.cfg] update
 
-### Documentation
+### Documentation 1.1.1.0
 
 * readme
 * release notes
 
-### Status
+### Status 1.1.1.0
 
 * Features/Issues
   * closes #41 - two new sizes
