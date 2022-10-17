@@ -57,7 +57,7 @@ brought to you by *KerbSimpleCo*
 
 >* ![English][EN] English
 >* ![Русский][RU] Russian (Русский)
->* ![Deutsch][DE] German (Deutsch) 
+>* ![Deutsch][DE] German (Deutsch)
 >* ![日本語][JA] Japanese (日本語)
 >* ![Español][ES] Spanish (Español)
 >* ***your translation here***
