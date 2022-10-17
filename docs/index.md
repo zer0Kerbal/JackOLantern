@@ -6,7 +6,6 @@
 
 ## Documents
 - [404](404.md)
-- [Attibution](Attibution.md)
 - [Attributions](Attributions.md)
 - [Disclaimer](Disclaimer.md)
 - [LegalMumboJumbo](LegalMumboJumbo.md)
