@@ -21,7 +21,7 @@ based upon work by LisiasT -->
 
 ## Marketing Slicks
 
-* Table of Contents)
+* Table of Contents
   * [Family Photo](#family-photo)
   * [Hang Time](#hang-time)
   * [Lineup](#lineup)
