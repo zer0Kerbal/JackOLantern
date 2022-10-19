@@ -10,32 +10,65 @@
 | spacedock  | (https://spacedock.info/mod/2261)                                 |
 | ckan       | JackOLantern                                                      |
 
-## Version 1.1.2.0-release `<It's the Great Pumpkin Charlie Kermin!>`
+## Version 1.1.2.0-release `<tplive says 'BOO!'>`
 
 * 15 Oct 2022
 * Released for Kerbal Space Program 1.12.3
 
 <b style="color:orange">zer0Kerbal wishes you a Happy and Safe Halloween!</b>
 
-### Updated 1.1.2.0
+## Summary 1.1.2.0
 
-* minor housekeeping and file maintenance  
-* patch dusting (mostly removing construction dust (comments))  
-* [TweakScale.cfg] update
+* lots of small fixes, including localization strings
+* add Norsk language
+* New Hero Logo
+* GitHub pages
+
+### Changes
+
+* Updated
+  * minor housekeeping and file maintenance  
+  * patch dusting (mostly removing construction dust (comments)
+  * part.cfg file headers
+  * <TweakScale.cfg>
+  * Parts
+    * decouple instead of "decouple"
 * closes #44 - Cannot find fx group of that name for decoupler
 
 ### Documentation 1.1.2.0
 
 * readme
 * release notes
+* docs/
+
+### Localization 1.1.2.0
+
+* Add
+  * Norwegian (Norsk)
+    * Localization/<no-no.cfg> v1.0.0.0
+    * Thank you [tplive](https://github.com/tplive)
+* Correct
+  * enabled <--> disabled swap
+  * <en-us.cfg> v1.1.0.0
+  * <es-es.cfg> v1.1.0.0
+  * <de.cfg> v1.1.0.0
+  * <ja.cfg> v1.1.0.0
+  * <ru.cfg> v1.1.0.0
+* updates #18 - Localization
+* closes #31 - Localization Norwegian (Norsk) <no-no.cfg>
+* closes #50 - Enabled has become Disabled and vice versa?
+
+### Config 1.1.2.0
+
+* Add <JackOLantern.cfg> v1.0.0.0
 
 ### Status 1.1.2.0
 
 * Issues
-  * closes #46 - Jack-O'Lantern (JACK)1.1.2.0-release `<EDITION>`
-  * closes #47 - 1.0.99.0 Verify Legal Mumbo Jumbo
-  * closes #48 - 1.0.99.0 Update Documentation
-  * closes #49 - 1.0.99.0 Update Social Media
+  * closes #46 - Jack-O'Lantern (JACK) 1.1.2.0-release `<tplive says 'BOO!'>`
+  * closes #47 - 1.1.2.0 Verify Legal Mumbo Jumbo
+  * closes #48 - 1.1.2.0 Update Documentation
+  * closes #49 - 1.1.2.0 Update Social Media
 
 ---
 
