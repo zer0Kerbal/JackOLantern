@@ -56,10 +56,11 @@ brought to you by *KerbSimpleCo*
 ### Localization
 
 >* ![English][EN] English
->* ![Русский][RU] Russian (Русский)
+>* ![Español][ES] Spanish (Español)
 >* ![Deutsch][DE] German (Deutsch)
 >* ![日本語][JA] Japanese (日本語)
->* ![Español][ES] Spanish (Español)
+>* ![Norsk][NO] Norwegian (Norsk) - thank you [tplive](https://github.com/tplive)
+>* ![Русский][RU] Russian (Русский)
 >* ***your translation here***
 >
 > HELP WANTED - See the [README in the Localization folder][lreadme] or the [Quickstart Guide][qstart] for instructions for adding or improving translations. [GitHub][GitHub:url] push is the best way to contribute. *Additions and corrections welcome!*
