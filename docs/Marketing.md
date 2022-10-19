@@ -2,7 +2,6 @@
 permalink: /Marketing.html
 title: Marketing Images
 description: camera goes *click-click*
-# layout: bare
 tags: marketing,pr,page,kerbal,ksp,zer0Kerbal,zedK
 ---
 
