@@ -16,7 +16,7 @@ based upon work by LisiasT -->
 <script src="https://kit.fontawesome.com/0ea5493613.js" crossorigin="anonymous"></script>
 <i class="fa-solid fa-user-astronaut fa-beat-fade fa-3x" style="--fa-beat-fade-opacity: 0.1; --fa-beat-fade-scale: 1.25;color: #BADA55" ></i>
 
-# Jack-O'Lantern (JACK) [WIP]
+# Jack-O'Lantern (JACK)
 
 [Home](./index.md)
 
@@ -24,60 +24,25 @@ based upon work by LisiasT -->
 
 * Table of Contents)
   * [Family Photo](#family-photo)
-  * [Mining Ore](#mining-ore)
-  * [Refining Ore to Metal](#refining-ore-to-metal)
-  * [Printing Rocketparts from Metal](#printing-rocketparts-from-metal)
-  * [Building Rockets](#building-rockets)
-  * [Finalize build](#finalize-build)
+  * [Hang Time](#hang-time)
+  * [Lineup](#lineup)
 
 ### Family Photo
 
-<img src="https://github.com/zer0Kerbal/FuelTanksPlus/blob/master/img/Hero-01.jpg?raw=true" alt="Fuel Tanks Plus" width="100%" height="100%">
+<img src="https://raw.githubusercontent.com/zer0Kerbal/JackOLantern/master/img/Jack-O-Lantern.jpg" alt="Jack-O'Lantern (JACK)" width="100%" height="100%">
 
-![Resource Flow Graph](https://i.postimg.cc/QNqdw7wp/Simple-Construction-resource-Flow.png)
 [top](#table-of-contents)
 
-### Mining Ore
+### Hang Time
 
-First mine the ore *(after you find it)*
+<img src="https://raw.githubusercontent.com/zer0Kerbal/JackOLantern/master/img/hangtime.png" alt="Jack-O'Lantern (JACK)" width="100%" height="100%">
 
-![Mining Ore][IMG:hero:2a]
 [top](#table-of-contents)
 
-### Refining Ore to Metal
+### Lineup
 
-Then refine the ore into metal
+<img src="https://raw.githubusercontent.com/zer0Kerbal/JackOLantern/master/img/lineup.png" alt="Jack-O'Lantern (JACK)" width="100%" height="100%">
 
-![Refining Ore to Metal][IMG:hero:2b]
 [top](#table-of-contents)
-
-### Printing Rocketparts from Metal
-
-Then using the MPL Science lab, print Rocket Parts
-
-![Printing Rocketparts from Metal][IMG:hero:2c]
-[top](#table-of-contents)
-
-### Building Rockets
-
-Then using a command pod and a docking port, build a new vessel or subassembly or even just a part
-
-![Building Rockets][IMG:hero:2d]
-[top](#table-of-contents)
-
-### Finalize build
-
-Finalize your build and load up the resources, and
-
-*PROFIT!*
-
-![Finalize build!][IMG:hero:2e]
-[top](#table-of-contents))
-
-[IMG:hero:2a]: https://i.imgur.com/zqg2qcv.png "Mining Ore"
-[IMG:hero:2b]: https://i.imgur.com/R6IYn5V.png "Refining Ore to Metal"
-[IMG:hero:2c]: https://i.imgur.com/jhbus6m.png "Printing Rocketparts from Metal"
-[IMG:hero:2d]: https://i.imgur.com/6v9gwma.png "Building Rockets"
-[IMG:hero:2e]: https://i.imgur.com/nmq46HA.png "Finalize build!"
 
 <!-- this file CC BY-ND 4.0 by zer0Kerbal -->
