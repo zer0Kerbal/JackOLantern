@@ -21,10 +21,11 @@ based upon work by LisiasT -->
 
 ## Marketing Slicks
 
-* Table of Contents
-  * [Family Photo](#family-photo)
-  * [Hang Time](#hang-time)
-  * [Lineup](#lineup)
+### Table of Contents
+
+* [Family Photo](#family-photo)
+* [Hang Time](#hang-time)
+* [Lineup](#lineup)
 
 ### Family Photo
 
