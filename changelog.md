@@ -29,6 +29,20 @@
 * readme
 * release notes
 
+### Localization 1.1.2.0
+
+enabled <--> disabled swap
+en-us.cfg v 1.1.0.0
+es-es.cfg v 1.1.0.0
+de.cfg v 1.1.0.0
+ja.cfg v 1.1.0.0
+ru.cfg v 1.1.0.0
+no-no.cfg v 1.0.0.0
+
+### Config 1.1.2.0
+
+JackOLantern.cfg v1.0.0.0
+
 ### Status 1.1.2.0
 
 * Issues
