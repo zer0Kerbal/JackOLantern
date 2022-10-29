@@ -23,10 +23,48 @@ CC BY-ND 4.0 by zer0Kerbal
 | spacedock  | (https://spacedock.info/mod/2261)                                 |
 | ckan       | JackOLantern                                                      |
 
+## Version 1.1.2.1-release `<lemostrash goes 'Boo!'>`
+
+* Released
+  * on: 28 Oct 2022
+  * for: Released for Kerbal Space Program 1.12.3
+  * by: zer0Kerbal
+
+* <b style="color:orange">zer0Kerbal wishes you a Happy and Safe Halloween!</b>
+
+## Summary
+
+* lots of small fixes and linting
+* New Hero Logo
+* update GitHub pages!
+
+### Update 1.1.2.1
+
+* Documentation
+  * Update
+    * Thank you [@lemostrash](https://github.com/lemostrash)
+    * improved cover (hero) [image](https://i.imgur.com/rWGfktW.png)
+    * <readme.me>
+    * <Localizations.md>
+    * <Attributions.md>
+    * <PartsCatalog.md>
+    * closes #58 - Update Hero Logo
+
+### Status 1.1.2.1
+
+* Issue
+  * closes #55 - Jack-O'Lantern (JACK) 1.1.2.1-release `<lemostrash goes 'Boo!'>` edition
+  * closes #56 - 1.1.2.1 Additional Tasks
+  * #57 - [ImgBot] Optimize images
+
+---
+
 ## Version 1.1.2.0-release `<tplive says 'BOO!'>`
 
-* 15 Oct 2022
-* Released for Kerbal Space Program 1.12.3
+* Released
+  * on: 15 Oct 2022
+  * for: Released for Kerbal Space Program 1.12.3
+  * by: zer0Kerbal
 
 <b style="color:orange">zer0Kerbal wishes you a Happy and Safe Halloween!</b>
 
