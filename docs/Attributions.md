@@ -52,18 +52,25 @@ updated: 03 Jun 2022
 
 <ul>
   <li><img src="https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/master/img/EN.png " alt="English" style="zoom:100%;" /> English</li>
-  <li><img src="https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/master/img/RU.png " alt="Русский" style="zoom:100%;" /> Russian (Русский)</li>
-  <li><img src="https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/master/img/DE.png " alt="Deutsch" style="zoom:100%;" /> German (Deutsch)</li>
-  <li><img src="https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/master/img/EN.png " alt="日本語" style="zoom:100%;" /> Japanese (日本語)</li>
-  <li><img src="https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/master/img/EN.png " alt="Español" style="zoom:100%;" /> Spanish (Español)</li>
+  <li><img src="https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/master/img/NO.png " alt="Norsk" style="zoom:100%;" /> Norwegian (Norsk) - thank you <a href="https://github.com/tplive"> tplive</a></li>
   <li>IBM Watson and translate.google.com for translations</li>
+  <ul>
+    <li><img src="https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/master/img/RU.png " alt="Русский" style="zoom:100%;" /> Russian (Русский)</li>
+    <li><img src="https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/master/img/DE.png " alt="Deutsch" style="zoom:100%;" /> German (Deutsch)</li>
+    <li><img src="https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/master/img/JA.png " alt="日本語" style="zoom:100%;" /> Japanese (日本語)</li>
+    <li><img src="https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/master/img/ES.png " alt="Español" style="zoom:100%;" /> Spanish (Español)</li>
+  </ul>
   <li><small>Additions and corrections welcome!</small></li>
 </ul>
 
 
 ### Art Asset(s)
 
-* Flags
+#### Hero Image(s)
+
+<img src="https://raw.githubusercontent.com/zer0Kerbal/JackOLantern/master/img/HeroLogo_1920x1920-old.png" alt="Jack O'Lantern Hero" width="10%" height="10%"> by zer0Kerbal</li>
+
+<img src="https://raw.githubusercontent.com/zer0Kerbal/JackOLantern/master/img/HeroLogo_1920x1920.png" alt="Jack O'Lantern Cover Hero" width="10%" height="10%"> by <a href="https://github.com/lemostrash" alt="lemostrash"> lemostrash</a>
 
 ### Testing and Support
 
