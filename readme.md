@@ -12,19 +12,16 @@ updated: 04 Oct 2022 -->
 
 # Jack-O'Lantern (JACK)
 
-Jack-O'Lantern themed probe cores in seven sizes. All the modcons. Now with pumpkin chunking!
-
-
+<img src="https://raw.githubusercontent.com/zer0Kerbal/JackOLantern/master/img/HeroLogo_1920x1920.png" alt="Jack O'Lantern Cover" width="100%" height="100%">
 
 ## By [`zer0Kerbal`][zer0Kerbal], originally by [`Porkjet`][porkjet]
 
 brought to you by *KerbSimpleCo*
 
-<img src="https://raw.githubusercontent.com/zer0Kerbal/JackOLantern/master/img/HeroLogo_1920x1920.png" alt="JackOLantern Hero" width="50%" height="50%">
-
 ## Features
 
-* This addon adds seven sizes of Jack-O'Lantern shaped probe cores
+* Jack-O'Lantern themed probe cores in seven sizes. All the modcons.
+* Now with pumpkin chunking!
 
 ---
 
@@ -39,9 +36,13 @@ brought to you by *KerbSimpleCo*
 
 ---
 
-### YouTube review by [`Kottabos Gaming`](https://forum.kerbalspaceprogram.com/index.php?/profile/36583-*/)
+<p align="center">
+    <a href="https://forum.kerbalspaceprogram.com/index.php?/profile/36583-*/">
+        <img src="https://img.youtube.com/vi/lZeAY4Rl0bQ/0.jpg" width="50%">
+    </a>
+  </p>
 
-[![KSP Mods - Jack-O'-Lantern](https://img.youtube.com/vi/lZeAY4Rl0bQ/0.jpg)](https://www.youtube.com/watch?v=lZeAY4Rl0bQ)
+### YouTube review by [`Kottabos Gaming`](https://forum.kerbalspaceprogram.com/index.php?/profile/36583-*/)
 
 ### Help Wanted
 

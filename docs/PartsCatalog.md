@@ -23,9 +23,13 @@ Jack-O'Lantern themed probe cores in seven sizes. All the modcons. Now with pump
 
 ---
 
-* Jack O'Lantern
+* Jack O'Lantern (they all look alike, just different sizes)
 
-  <img src="https://raw.githubusercontent.com/zer0Kerbal/JackOLantern/master/docs/%40thumbs/JackOLantern00_icon.png" alt="Jack O'Lanter (JACK)" width="25%" height="25%" />
+  <img src="https://raw.githubusercontent.com/zer0Kerbal/JackOLantern/master/docs/%40thumbs/JackOLantern00_icon.png" alt="Jack O'Lanter (JACK) - small model" width="25%" height="25%" />
+
+  <img src="https://raw.githubusercontent.com/zer0Kerbal/JackOLantern/master/docs/%40thumbs/JackOLantern1_icon.png" alt="Jack O'Lanter (JACK) - medium model" width="37.5%" height="37.5%" />
+
+  <img src="https://raw.githubusercontent.com/zer0Kerbal/JackOLantern/master/docs/%40thumbs/JackOLantern2_icon.png" alt="Jack O'Lanter (JACK) - Big model" width="50%" height="50%" />
 
 ---
 
