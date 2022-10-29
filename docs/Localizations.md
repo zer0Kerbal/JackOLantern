@@ -24,6 +24,7 @@ has been translated into the following languages:
 * ![English][EN] English <us-en.cfg>
 * ![Deutsch][DE] German (Deutsch) <de.cfg>  
 * ![Español][ES] Spanish (Español) <es-es.cfg>  
+* ![Norsk][NO] Norwegian (Norsk) <no-no.cfg>  
 * ![日本語][JA] Japanese(日本語) <ja.cfg>  
 * ![Русский][RU] Russian (Русский) <ru.cfg>  
 
@@ -39,7 +40,6 @@ __These localizations for KSP and its DLC's are available through Steam:__
 * ![Español Mexicano][MX] Mexican Spanish (Español Mexicano) <es-mx.cfg>  
 * ![한국어][KO] [Korean (한국어) <ko.cfg>  
 * ![Dutch][NL] Dutch (Nederlands) <nl-nl.cfg>  
-* ![Norsk][NO] Norwegian (Norsk) <no-no.cfg>  
 * ![Polski][PO] Polish (Polski) <pl.cfg>  
 * ![Svenska][SW] Swedish (Svenska) <sw-sw.cfg>  
 * ![Türk][TR] Turkish (Türk) <tr-tr.cfg>  
