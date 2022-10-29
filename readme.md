@@ -157,7 +157,7 @@ parts, config, uncrewed
 [MOD:attr]: https://zer0kerbal.github.io/JackOLantern/Attributions "Attribution"
 [MOD:chlog]: https://raw.githubusercontent.com/zer0Kerbal/JackOLantern/master/changelog.md  "Changelog"
 [MOD:discu]: https://github.com/zer0Kerbal/JackOLantern/discussions "Discussions"
-[MOD:forum]: https://forum.kerbalspaceprogram.com/index.php?/topic/189466-*/ "JackOLantern Forum Thread"
+[MOD:forum]: https://forum.kerbalspaceprogram.com/index.php?/topic/189466-*/ "Jack O'Lantern"
 [MOD:issue]: https://github.com/zer0Kerbal/JackOLantern/issues "Issues"
 [MOD:markt]: https://zer0kerbal.github.io/JackOLantern/Marketing "Marketing Slicks"
 [MOD:notic]: https://zer0kerbal.github.io/JackOLantern/Notices "Notices"
@@ -204,7 +204,7 @@ parts, config, uncrewed
 
 <!-- links to add-ons/mods -->
 [BOOM]: https://forum.kerbalspaceprogram.com/index.php?/topic/192938-*/ "KaboOom!"
-[COL]: https://forum.kerbalspaceprogram.com/index.php?/topic/88880-*/ "Cluster O'Lantern (COL)"
+[COL]: https://forum.kerbalspaceprogram.com/index.php?/topic/210339-*/ "Cluster O'Lantern (COL)"
 [FND]: https://forum.kerbalspaceprogram.com/index.php?/topic/51430-*/ "Foundations"
 [GPO]: https://forum.kerbalspaceprogram.com/index.php?/topic/207732-*/ "GPO SpeedPump (GPO)"
 [HLWN]: https://forum.kerbalspaceprogram.com/index.php?/topic/205185-*/ "Halloween"
