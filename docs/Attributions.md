@@ -63,7 +63,6 @@ updated: 03 Jun 2022
   <li><small>Additions and corrections welcome!</small></li>
 </ul>
 
-
 ### Art Asset(s)
 
 #### Hero Image(s)
