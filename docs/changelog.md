@@ -55,6 +55,7 @@ CC BY-ND 4.0 by zer0Kerbal
 * Issue
   * closes #55 - Jack-O'Lantern (JACK) 1.1.2.1-release `<lemostrash goes 'Boo!'>` edition
   * closes #56 - 1.1.2.1 Additional Tasks
+  * #54 - add-newimg-readme - contributed by [lemostrash](https://github.com/lemostrash)
   * #57 - [ImgBot] Optimize images
 
 ---
