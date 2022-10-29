@@ -12,20 +12,16 @@ updated: 04 Oct 2022 -->
 
 # Jack-O'Lantern (JACK)
 
-<p align="center">
- <img width="100%" src="https://i.imgur.com/eX25K52.png" align="center" alt="GitHub Readme Stats" />
- <h2 align="center">Jack-O'Lantern themed probe cores in seven sizes. All the modcons.</h2>
- <p align="center">Now with pumpkin chunking!</p>
+<img src="https://raw.githubusercontent.com/zer0Kerbal/JackOLantern/master/img/HeroLogo_1920x1920.png" alt="Jack O'Lantern Cover" width="100%" height="100%">
 
- ## By [`zer0Kerbal`][zer0Kerbal], originally by [`Porkjet`][porkjet]
+## By [`zer0Kerbal`][zer0Kerbal], originally by [`Porkjet`][porkjet]
 
 brought to you by *KerbSimpleCo*
 
-<hr>
-
 ## Features
 
-* This addon adds seven sizes of Jack-O'Lantern shaped probe cores
+* Jack-O'Lantern themed probe cores in seven sizes. All the modcons.
+* Now with pumpkin chunking!
 
 ---
 
