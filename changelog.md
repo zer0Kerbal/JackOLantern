@@ -67,7 +67,7 @@
 
 * Updated
   * minor housekeeping and file maintenance  
-  * patch dusting (mostly removing construction dust (comments)
+  * patch dusting (mostly removing construction dust e.g. comments)
   * part.cfg file headers
   * <TweakScale.cfg>
   * Parts
@@ -85,7 +85,7 @@
 * Add
   * Norwegian (Norsk)
     * Localization/<no-no.cfg> v1.0.0.0
-    * Thank you [tplive](https://github.com/tplive)
+    * Takk skal du ha [tplive](https://github.com/tplive)
 * Correct
   * enabled <--> disabled swap
   * <en-us.cfg> v1.1.0.0
