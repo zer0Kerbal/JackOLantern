@@ -21,6 +21,13 @@
 
 * General updating and linting
 * Update documentation
+* NEW: compatibility
+  * Rover Anti Gravity System (RAGS)
+
+#### Compatibility
+
+* NEW:
+  * [RoverAntiGravitySystem.cfg] v1.0.0.0
 
 ### Status 1.1.3.0
 
