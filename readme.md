@@ -97,6 +97,7 @@ Most recent releases only available via CurseForge/OverWolf Website/App
 
 ### Supports
 
+* [Rover Anti Gravity System (RAGS)](https://curseforge.com/kerbal/ksp-mods/roverantigravitysystem)
 * [TweakScale (twk)](https://curseforge.com/kerbal/ksp-mods/TweakScale)
 * [ModularManagement (MM)](https://curseforge.com/kerbal/ksp-mods/ModularManagement) or [Module Manager](https://forum.kerbalspaceprogram.com/index.php?/topic/50533-*/)
 
