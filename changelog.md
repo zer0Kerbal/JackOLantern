@@ -10,6 +10,26 @@
 | spacedock  | (https://spacedock.info/mod/2261)                                 |
 | ckan       | JackOLantern                                                      |
 
+## Version 1.1.3.0-release - `<Boo!>` edition
+
+* Released
+  * 30 Oct 2023
+  * for Kerbal Space Program 1.12.3
+  * by [zer0Kerbal](https://github.com/zer0Kerbal)
+
+### Changes
+
+* General updating and linting
+* Update documentation
+
+### Status 1.1.3.0
+
+* Issues
+  * closes #61 - Jack-O'Lantern (JACK) 1.1.3.0-release `<Boo!'>` edition
+  * closes #62 - 1.1.3.0 Additional Tasks
+
+---
+
 ## Version 1.1.2.1-release `<lemostrash goes 'Boo!'>`
 
 * Released
