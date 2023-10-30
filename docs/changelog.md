@@ -21,7 +21,7 @@ CC BY-ND 4.0 by zer0Kerbal -->
 | spacedock  | (https://spacedock.info/mod/2261)                                 |
 | ckan       | JackOLantern                                                      |
 
-## Version 1.1.3.0-release - `<Boo!>` edition
+## Version 1.1.3.0-release - `<Floating Pumpkins>` edition
 
 * Released
   * 30 Oct 2023
@@ -39,7 +39,6 @@ CC BY-ND 4.0 by zer0Kerbal -->
 
 * NEW:
   * [RoverAntiGravitySystem.cfg] v1.0.0.0
-
 
 ### Status 1.1.3.0
 
