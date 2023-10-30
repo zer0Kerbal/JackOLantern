@@ -4,14 +4,12 @@ title: The Change Log
 description: The Opening Credits, and the closing credits, plus the first of two (or is three) end credit scenes
 tags: changes,changelog,change-log,page,kerbal,ksp,zer0Kerbal,zedK
 ---
-
-<!-- 
-hdr-changelog.md v1.0.0.0
+<!-- hdr-changelog.md v1.0.0.0
 Jack-O'Lantern (JACK)
 created: 13 May 2022
-updated:
-CC BY-ND 4.0 by zer0Kerbal
---># Changelog  
+updated: 30 Oct 2023
+CC BY-ND 4.0 by zer0Kerbal -->
+# Changelog  
   
 | modName    | Jack O'Lantern (JACK)                                             |
 | ---------- | ----------------------------------------------------------------- |
@@ -22,6 +20,26 @@ CC BY-ND 4.0 by zer0Kerbal
 | curseforge | (https://www.curseforge.com/kerbal/ksp-mods/JackOLantern)         |
 | spacedock  | (https://spacedock.info/mod/2261)                                 |
 | ckan       | JackOLantern                                                      |
+
+## Version 1.1.3.0-release - `<Boo!>` edition
+
+* Released
+  * 30 Oct 2023
+  * for Kerbal Space Program 1.12.3
+  * by [zer0Kerbal](https://github.com/zer0Kerbal)
+
+### Changes
+
+* General updating and linting
+* Update documentation
+
+### Status 1.1.3.0
+
+* Issues
+  * closes #61 - Jack-O'Lantern (JACK) 1.1.3.0-release `<Boo!'>` edition
+  * closes #62 - 1.1.3.0 Additional Tasks
+
+---
 
 ## Version 1.1.2.1-release `<lemostrash goes 'Boo!'>`
 
@@ -80,7 +98,7 @@ CC BY-ND 4.0 by zer0Kerbal
 
 * Updated
   * minor housekeeping and file maintenance  
-  * patch dusting (mostly removing construction dust (comments)
+  * patch dusting (mostly removing construction dust e.g. comments)
   * part.cfg file headers
   * <TweakScale.cfg>
   * Parts
@@ -98,7 +116,7 @@ CC BY-ND 4.0 by zer0Kerbal
 * Add
   * Norwegian (Norsk)
     * Localization/<no-no.cfg> v1.0.0.0
-    * Thank you [tplive](https://github.com/tplive)
+    * Takk skal du ha [tplive](https://github.com/tplive)
 * Correct
   * enabled <--> disabled swap
   * <en-us.cfg> v1.1.0.0
@@ -319,3 +337,4 @@ changed from ModuleLight to ModuleColorChanger
 * Original from CurseForge
 
 ---
+
