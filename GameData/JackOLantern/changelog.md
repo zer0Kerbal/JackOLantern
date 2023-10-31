@@ -10,7 +10,7 @@
 | spacedock  | (https://spacedock.info/mod/2261)                                 |
 | ckan       | JackOLantern                                                      |
 
-## Version 1.1.3.0-release - `<Floating Pumpkins>` edition
+## Version 1.1.3.0-release - `<Lisias Floating Pumpkins>` edition
 
 * Released
   * 30 Oct 2023
@@ -21,6 +21,8 @@
 
 * General updating and linting
 * Update documentation
+* NEW: Brazil Portuguese (Português Brasil) localization
+  * Obrigado to [LisiasT](https://github.com/Lisias)
 * NEW: compatibility
   * Rover Anti Gravity System (RAGS)
 
@@ -28,6 +30,15 @@
 
 * NEW:
   * [RoverAntiGravitySystem.cfg] v1.0.0.0
+
+#### Localization
+
+* Add
+  * Brazil Portuguese (Português Brasil) localization
+    * Obrigado to [LisiasT](https://github.com/Lisias)
+* closes #16 - Localization - pt-br.cfg Brazil
+* closes #26 - Localization - Brazil Portuguese (Português Brasil) <pt-br.cfg>
+* updates #18 - Localization
 
 ### Status 1.1.3.0
 
