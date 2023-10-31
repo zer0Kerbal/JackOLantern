@@ -8,7 +8,7 @@ created: 17 Jul 2017
 updated: 07 Aug 2023
 
 THIS FILE: CC BY-ND 4.0 by zer0Kerbal -->
-# ![Jack O'Lantern][C:url]
+# [Jack O'Lantern][C:url]
 
 [![Jack O'Lantern][SHD:mod]][forum]  
 [![KSP version][KSP:shd]][KSP:url] [![License][LIC:shd]][LIC:url]  
