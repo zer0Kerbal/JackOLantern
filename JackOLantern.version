@@ -1,5 +1,5 @@
 {
-	"NAME"			 : "Jack-O'-Lantern (JACK)",
+	"NAME"			 : "Jack-O'-Lantern (JACK) by Porkjet",
 	"URL"			 : "https://raw.githubusercontent.com/zer0Kerbal/JackOLantern/master/JackOLantern.version",
 	"DOWNLOAD"		 : "https://github.com/zer0Kerbal/JackOLantern/releases/latest",
 	"CHANGE_LOG_URL" : "https://raw.githubusercontent.com/zer0Kerbal/JackOLantern/master/changelog.md",
@@ -13,14 +13,14 @@
 	{
 		"MAJOR" : 1,
 		"MINOR" : 1,
-		"PATCH" : 2,
-		"BUILD" : 1
+		"PATCH" : 3,
+		"BUILD" : 0
 	},
 	"KSP_VERSION" :
 	{
 		"MAJOR" : 1,
 		"MINOR" : 12,
-		"PATCH" : 3
+		"PATCH" : 5
 	},
 	"KSP_VERSION_MIN" :
 	{

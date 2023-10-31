@@ -10,6 +10,44 @@
 | spacedock  | (https://spacedock.info/mod/2261)                                 |
 | ckan       | JackOLantern                                                      |
 
+## Version 1.1.3.0-release - `<Lisias Floating Pumpkins>` edition
+
+* Released
+  * 30 Oct 2023
+  * for Kerbal Space Program 1.12.3
+  * by [zer0Kerbal](https://github.com/zer0Kerbal)
+
+### Changes
+
+* General updating and linting
+* Update documentation
+* NEW: Brazil Portuguese (Português Brasil) localization
+  * Obrigado to [LisiasT](https://github.com/Lisias)
+* NEW: compatibility
+  * Rover Anti Gravity System (RAGS)
+
+#### Compatibility
+
+* NEW:
+  * [RoverAntiGravitySystem.cfg] v1.0.0.0
+
+#### Localization
+
+* Add
+  * Brazil Portuguese (Português Brasil) localization
+    * Obrigado to [LisiasT](https://github.com/Lisias)
+* closes #16 - Localization - pt-br.cfg Brazil
+* closes #26 - Localization - Brazil Portuguese (Português Brasil) <pt-br.cfg>
+* updates #18 - Localization
+
+### Status 1.1.3.0
+
+* Issues
+  * closes #61 - Jack-O'Lantern (JACK) 1.1.3.0-release `<Boo!'>` edition
+  * closes #62 - 1.1.3.0 Additional Tasks
+
+---
+
 ## Version 1.1.2.1-release `<lemostrash goes 'Boo!'>`
 
 * Released
@@ -67,7 +105,7 @@
 
 * Updated
   * minor housekeeping and file maintenance  
-  * patch dusting (mostly removing construction dust (comments)
+  * patch dusting (mostly removing construction dust e.g. comments)
   * part.cfg file headers
   * <TweakScale.cfg>
   * Parts
@@ -85,7 +123,7 @@
 * Add
   * Norwegian (Norsk)
     * Localization/<no-no.cfg> v1.0.0.0
-    * Thank you [tplive](https://github.com/tplive)
+    * Takk skal du ha [tplive](https://github.com/tplive)
 * Correct
   * enabled <--> disabled swap
   * <en-us.cfg> v1.1.0.0
