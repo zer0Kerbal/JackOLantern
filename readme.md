@@ -48,6 +48,7 @@ brought to you by *KerbSimpleCo*
 ### Localization
 
 >* ![English](https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/img/EN.png) English
+>* ![Brazil Portuguese (Português Brasil) ](https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/img/BR.png) Brazil Portuguese (Português Brasil) - obrigado [LisiasT](https://github.com/Lisias)
 >* ![Spanish (Español)](https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/img/ES.png) Spanish (Español)
 >* ![German (Deutsch)](https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/img/DE.png) German (Deutsch)
 >* ![Japanese (日本語)](https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/img/JA.png) Japanese (日本語)
